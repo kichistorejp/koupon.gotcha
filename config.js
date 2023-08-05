@@ -14,6 +14,5 @@ const CONFIG = {
     mess: 'なるほどね。サンキュー 🥰',
     messDesc: 'クーポンコード:HN777で～す',
     btnAccept: 'オッケー 💖',
-    messLink: '
-https://kichistore.buyshop.jp'
+    messLink: 'https://kichistore.buyshop.jp'
 }
